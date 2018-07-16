@@ -2,5 +2,6 @@
 
 Progress: Still need to update:
 
-* semantic-sections 
+* semantic-elements
+  - Make better visuals for layouts
 * table > Colgroup & col
