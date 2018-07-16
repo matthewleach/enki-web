@@ -2,6 +2,5 @@
 
 Progress: Still need to update:
 
-semantic-sections
-tables 
-web-page-structure
+* semantic-sections 
+* table > Colgroup & col
