@@ -18,7 +18,7 @@ aspects:
   - deep
 
 links:
-  - '[Code Example on CodePen](https://codepen.io/lizthedeveloper/pen/MGqBYK){code}'
+  - '[CodePen: Form output](https://codepen.io/enkidevs/pen/EpYJoa){code}'
 
 ---
 # Output

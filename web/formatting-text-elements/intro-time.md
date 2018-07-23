@@ -15,6 +15,9 @@ tags:
   - deep
 
 links:
+  - '[CodePen: Element Time (1)](https://codepen.io/enkidevs/pen/qyROGe){code}'
+  - '[CodePen: Element Time (2)](https://codepen.io/enkidevs/pen/oMBbvN){code}'
+  - '[CodePen: Element Time (3)](https://codepen.io/enkidevs/pen/MBJKgB){code}'
   - '[MDN docs for time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time){website}'
   
 ---
@@ -88,25 +91,28 @@ Example:
 </p>
 ```
 Result:
-```
-The class starts at 08:00
-```
+
+##### --> element-time-1.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/qyROGe)
+
 
 Another Example:
 ```
 <p>
 Date of birth:
-<time
-  1993-12-06 18:12:24
-</time>
+<time 1993-12-06 18:12:24>
   December 6, 1993 
   at 18:12:24
+  </time>
 </p>
 ```
 Result:
-```
-Date of birth: December 6, 1993 at 18:12:24
-```
+
+##### --> element-time-2.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/oMBbvN)
+
 
 Example with datetime:
 ```
@@ -116,10 +122,12 @@ Example with datetime:
   September 2, 1945</time>.
 </p>
 ```
-Result:
-```
-WW2 ended September 2, 1945.
-```
+Result: 
+
+##### --> element-time-3.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/MBJKgB)
+
 
 ---
 ## Practice

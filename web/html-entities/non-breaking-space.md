@@ -18,6 +18,10 @@ aspects:
   - workout
   - deep
   
+links:
+  - '[CodePen: non-breaking space](https://codepen.io/enkidevs/pen/YjNpVa){code}'
+  - '[CodePen: &nbsp within Table](https://codepen.io/enkidevs/pen/PBpLqV){code}'
+  
 ---
 # Non-breaking Space
 
@@ -57,6 +61,9 @@ Under Security Law
 ¶ 23 of the contract provides details.
 ```
 
+![View CodePen](https://codepen.io/enkidevs/pen/YjNpVa)
+
+
 By default, two images placed together in a webpage will visually touch. When a single space should be used to separate them, a non-breaking space can be used like this: 
 
 Without &nbsp:
@@ -82,7 +89,7 @@ Result:
 
 **Prevent Table Cell Collapse with Non-Breaking Space**
 
-If you have a table with an empty cell within your web page, you should insert the non-breaking space HTML coding in the empty cell to prevent the cell from collapsing.
+If you have a table with an empty cell within your web page, you should insert the non-breaking space HTML coding in the empty cell to prevent the cell from collapsing in older browsers. Adding may not be necessary in modern browsers, but adding `&nbsp;` into the cell can help developers know the cell is empty on purpose and it's content wasn't deleted by accident. 
 
 ```
 <table>
@@ -105,6 +112,8 @@ If you have a table with an empty cell within your web page, you should insert t
 ```
 
 ##### --> nbsp-table.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/PBpLqV)
 
 **Note:** Do not use multiple non-breaking spaces to create larger spaces. If additional space is necessary, then CSS should be used.  
 

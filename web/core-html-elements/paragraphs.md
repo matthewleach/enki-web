@@ -15,6 +15,10 @@ standards:
 
 aspects:
   - introduction
+  
+links:
+  - '[CodePen: Simple Paragraph](https://codepen.io/enkidevs/pen/gjMMdo){code}'
+
 
 ---
 # Paragraphs
@@ -30,6 +34,7 @@ In HTML, the `<p>` tag defines the start of a paragraph and the `</p>` defines t
   This is a paragraph.
 </p>
 ```
+![View CodePen](https://codepen.io/enkidevs/pen/gjMMdo)
 
 The defaults of paragraphs:
 

@@ -15,12 +15,19 @@ tags:
   - introduction
 
 links:
+  - '[CodePen: Element i](https://codepen.io/enkidevs/pen/MBJwMp){code}'
+  - '[CodePen: Element em](https://codepen.io/enkidevs/pen/NBdGKG){code}'
+  - '[CodePen: Elemente em Embedded](https://codepen.io/enkidevs/pen/GBrpgb){code}'
+  - '[CodePen: Element em & i](https://codepen.io/enkidevs/pen/djNYYw){code}'
+  - '[CodePen: Element cite](https://codepen.io/enkidevs/pen/GBrpoV){code}'
   - '[MDN docs for global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes){website}'
 
 ---
 # Emphasis (i & em)
 ---
 ## Content
+
+### `<i>`
 
 The HTML `<i>` and `<em>` elements appear very similar since they both have the same default CSS styling of `font-style: italic`. But they both have different purposes. 
 
@@ -33,8 +40,6 @@ The `<i>` element is used set a part of a text in a different tone. These parts 
   - A ship/plane name
   - Scientific names
   - Etc..
-
-The `<em>`, or the **Emphasis** element is used to *stress emphasis* on a piece of text read by a person (or software).
 
 Example of `<i>`:
 ```
@@ -52,8 +57,13 @@ Example of `<i>`:
 ```
 Result:
 
-In French *Quatre-vingt-dix-neuf* is 99, and *Cent* is 100.
+##### --> element-i.svg
 
+![View CodePen](https://codepen.io/enkidevs/pen/MBJwMp)
+
+### `<em>`
+
+The `<em>`, or the **Emphasis** element is used to *stress emphasis* on a piece of text read by a person (or software).
 
 Notice how the `<em>` element helps share how this example text should be read:
 
@@ -65,8 +75,9 @@ Example
 ```
 Result:
 
-This is *no doubt* the best steak I've ever had!
+##### --> element-em.svg
 
+![View CodePen](https://codepen.io/enkidevs/pen/NBdGKG)
 
 Furthermore, the `<em>` element is a little different from the `<i>` element in that it can be nested with itself.
 
@@ -82,9 +93,13 @@ Example:
 ```
 Result:
 
-He shouted, "*I *am* a comedian!*"
+##### --> element-em-embedded.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/GBrpgb)
 
 This is good for expressing a greater degree of emphasis in a sentence. Also, by default nested `<em>` elements they will display the same. Nevertheless, you can use `em > em` in CSS to style nested `<em>` elements.
+
+### `<em>` & `<i>`
 
 Additionally, the `<em>` and `<i>` elements can be used together.
 
@@ -104,10 +119,14 @@ Example:
 ```
 Result:
 
-The *Black Pearl* is an *amazing* name for a pirate ship.
+##### --> element-em-and-i.svg
 
-**Note!**
-  If you add the name of the movie where *Black Pearl* is from, you would do so with the `<cite>` element.
+![View CodePen](https://codepen.io/enkidevs/pen/djNYYw)
+
+
+### `<cite>`
+
+If you add the name of the movie where *Black Pearl* is from, you would do so with the `<cite>` element.
   
 Example:
 ```
@@ -129,7 +148,9 @@ Example:
 ```
 Result:
 
-The *Black Pearl* from the movie *The Pirates of the Caribbean* is an *amazing* name for a pirate ship.
+##### --> element-cite.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/GBrpoV)
 
 
 ---

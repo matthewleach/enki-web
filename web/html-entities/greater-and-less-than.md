@@ -17,7 +17,10 @@ aspects:
   - introduction
   - workout
   - deep
-
+  
+links:
+  - '[CodePen: Greater and Less Than in HTML](https://codepen.io/enkidevs/pen/vagygR){code}'
+    
 ---
 # Greater and Less Than
 ---
@@ -53,6 +56,9 @@ Result:
 ```
 5 > 3
 ```
+
+![View CodePen](https://codepen.io/enkidevs/pen/vagygR)
+
 
 ---
 ## Practice

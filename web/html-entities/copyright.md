@@ -16,7 +16,10 @@ aspects:
   - introduction
   - workout
   - deep
-
+  
+links:
+  - '[CodePen: Copyright in HTML](https://codepen.io/enkidevs/pen/WKRooB){code}'
+  
 ---
 # Copyright
 ---
@@ -46,12 +49,14 @@ Result:
 
 Example:
 ```
-<p> Copyright &copy; </p>
+<p>Copyright &copy;</p>
 ```
 Result:
 ```
 Copyright ©
 ```
+![View CodePen](https://codepen.io/enkidevs/pen/WKRooB)
+
 
 When using the Copyright symbol in your HTML, it is a best practice to use the corresponding HTML entity vs. cutting and pasting the symbol. Because  even if the symbol renders ok on your browser, it may not render the same on everyone's browser.
 

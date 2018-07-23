@@ -22,6 +22,7 @@ aspects:
   - deep
 
 link:
+  - '[CodePen: samp Element](https://codepen.io/enkidevs/pen/BVqOJr){code}'
   - '[MDN Docs for samp](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp){website}'
 
 ---

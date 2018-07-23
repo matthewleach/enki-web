@@ -21,8 +21,8 @@ aspects:
 
 
 links:
+  - '[CodePen: Blockquote & Cite](https://codepen.io/enkidevs/pen/oyPQBr){code}'
   - '[MDN docs for blockquotes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote){website}'
-  -
 ---
 # Blockquotes
 ---

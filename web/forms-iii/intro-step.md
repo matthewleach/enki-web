@@ -17,6 +17,9 @@ aspects:
   - introduction
   - workout
   - deep
+  
+links:
+  - '[CodePen: Step Attribute](https://codepen.io/enkidevs/pen/gKZKKK){code}'
 
 ---
 # Intro step

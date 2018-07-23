@@ -15,7 +15,7 @@ tags:
   - introduction
 
 links:
-  - '[Codepen Example](https://codepen.io/stefan-stojanovic/pen/zaEWdL){website}'
+  - '[Codepen: HR Element with Default Styles](https://codepen.io/enkidevs/pen/zayObZ){code}'
 
 ---
 # Intro hr

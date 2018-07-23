@@ -15,6 +15,8 @@ tags:
   - introduction
   
 links:
+  - '[CodePen: strong & b](https://codepen.io/enkidevs/pen/mjRemb){code}'
+  - '[CodePen: strong & b (2)](https://codepen.io/enkidevs/pen/NBdGvb){code}'
   - '[MDN docs for globat attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes){website}'
 
 ---
@@ -36,7 +38,10 @@ Example:
 ```
 Result:
 
-**Warning**: The latest **iPhone** is expensive.
+##### --> element-strong-b.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/mjRemb)
+
 
 The HTML `<strong>` and `<b>` elements appear similar since they both have the same default styling, **bold**, but they both identify the content differently.   
 
@@ -51,7 +56,10 @@ The floor is
 ```
 Result:
 
-**Attention!** The floor is **slippery** and **wet**!
+##### --> element-strong-b-2.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/NBdGvb)
+
 
 In the above example, the `<strong>` element is used to specify that the word `Warning` is very important and the `<b>` element is used to give attention to a text `iPhone` without giving it a higher importance. 
 

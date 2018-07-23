@@ -25,12 +25,13 @@ In HTML, many elements allow for extra attributes, which allow for additional in
 
 Example:
 ```
-<img src="enki_logo.jpg">
+<img src="enki_logo.png">
 ```
-In the example above the `src="enki_logo.jpg"` is an attribute for the `<img>` tag. Without that extra information, the `<img>` element wouldn't know what image to use within it.
+
+In the example above the `src="enki_logo.png"` is an attribute for the `<img>` tag. Without that extra information, the `<img>` element wouldn't know what image to use within it.
 
 The name/value pair refers in this case to 'src' and the value 
-'enki_logo.jpg'. Notice how the value is wrapped in quote marks. 
+'enki_logo.png'. Notice how the value is wrapped in quote marks. 
 
 ---
 ## Practice

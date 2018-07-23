@@ -11,11 +11,13 @@ category: must-know
 
 stub: true
 
-
 tags:
   - deep
 
-
+links:
+  - '[CodePen: Element dfn](https://codepen.io/enkidevs/pen/LBxpJo){code}'
+  - '[CodePen: Element dfn & abbr](https://codepen.io/enkidevs/pen/ejgpQj){code}'
+  
 ---
 ## Content
 
@@ -31,10 +33,11 @@ Example:
 ```
 Result:
 
-_Enki_ is an app that provides daily workouts for your dev skills.
+###### --> element-dfn.svg
 
+![View CodePen](https://codepen.io/enkidevs/pen/LBxpJo)
 
-**Note: The `<dfn>` elements main purpose is to provide semantic meaning. Other than that, it has no special functionality.**
+**Note:** The `<dfn>` elements main purpose is to provide semantic meaning. Other than that, it has no special functionality.
 
 Also, the `<dfn>` element has a `title` attribute. If the `title` attribute is present, the content of the `<dfn>` element, which is the value of the `title` attribute, has to be the term being defined and nothing else. 
 
@@ -65,11 +68,9 @@ Example `<abbr>`:
 ```
 Result:
 
-_HTML_ is the standard markup language for creating web pages.
+###### --> element-dfn-abbr.svg
 
-... later in the document...
-
-After a few hours, I was finally able to understand _HTML_!
+![View CodePen](https://codepen.io/enkidevs/pen/ejgpQj)
 
 
 ---

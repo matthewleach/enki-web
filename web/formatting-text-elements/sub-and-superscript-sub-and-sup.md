@@ -13,7 +13,9 @@ stub: true
 
 tags:
   - deep
-
+  
+links:
+  - '[CodePen: Element sub & sup](https://codepen.io/enkidevs/pen/xzQvPv){code}'
 
 ---
 ## Content
@@ -40,6 +42,8 @@ Example:
   are fun to learn about.
 </p>
 ```
+##### --> element-sub-sup.svg
+
 ![View CodePen](https://codepen.io/enkidevs/pen/xzQvPv)
 
 Furthermore, the most common `<sup>` elements uses are to display exponents (x^2) or ordinal numbers (3rd,4th,5th). On the other hand, the most common use for the `<sub>` element is marking footnotes, variable numbers (X1, X2...Xn) and denoting numbers in chemical formulas.

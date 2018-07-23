@@ -16,7 +16,10 @@ aspects:
   - workout
   - deep
   - obscura
-
+  
+links:
+  - '[CodePen: novalidate](https://codepen.io/enkidevs/pen/xzmmKy){code}'
+  
 ---
 # Formnovalidate & novalidate
 ---

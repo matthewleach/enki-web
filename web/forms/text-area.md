@@ -18,13 +18,14 @@ aspects:
   - workout
 
 links:
+  - '[CodePen: Form: Simple Textarea](https://codepen.io/enkidevs/pen/MBJjjz){code}'
+  - '[CodePen: Form Textarea w/ Attributes](https://codepen.io/enkidevs/pen/ajpmme){code}'
   - '[MDN docs for textarea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea){website}'
 
 ---
 # Text Area
 ---
 ## Content
-
 
 The HTML `<textarea>` element is used to represent a multi-line input text area.
 
@@ -34,6 +35,10 @@ Simple example:
   name="textbox">
 </textarea>
 ```
+##### --> simple-textarea.svg
+
+
+![View CodePen](https://codepen.io/enkidevs/pen/MBJjjz)
 
 The `<textarea>` element has many attributes. Some of them:
   - `autocomplete` enables autocomplete for text area
@@ -45,7 +50,6 @@ The `<textarea>` element has many attributes. Some of them:
   - `placeholder`
   - `rows`
 
-
 Example with attributes:
 ```
 <textarea
@@ -55,9 +59,11 @@ Example with attributes:
 </textarea>
 ```
 
+##### --> simple-textarea-attributes.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/ajpmme)
+
 In the example above, `rows="10"` specifies the number of visible text lines for the control,  `cols="30"` specifies the average characters width and the `placeholder` attribute presents a hint which disappears after the user types something and reappears if there is no input.
-
-
 
 
 ---

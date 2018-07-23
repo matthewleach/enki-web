@@ -42,8 +42,8 @@ Check out this code:
   <p>A paragraph inside a div.</p>
   <p>An <span>important</span> paragraph
      inside the div. </p>
-  <p> A div <div></div> inside a
-     paragraph. </p>
+  <p>A div <div></div> inside a
+     paragraph.</p>
 </div>
 ```
 

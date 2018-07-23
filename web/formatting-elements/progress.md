@@ -15,6 +15,7 @@ tags:
   - deep
 
 links:
+  - '[CodePen: Progress Element](https://codepen.io/enkidevs/pen/eKbYJv){code}'
   - '[MDN docs for global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes){website}'
   
 ---

@@ -15,6 +15,8 @@ tags:
   - introduction
   
 links:
+  - '[CodePen: Element br](https://codepen.io/enkidevs/pen/XBpmqB){code}'
+  - '[CodePen: Element br (2)](https://codepen.io/enkidevs/pen/EpZVRO){code}'
   - '[MDN docs for global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes){website}'
 
 ---
@@ -29,17 +31,15 @@ Example 1:
 Some Text<br>Some Text<br>bla bla
 ```
 
-The result would be like this:
-```
-Some Text
-Some Text
-bla bla
-```
+##### --> element-br.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/XBpmqB)
+
 
 **Notes:**
-  1) **This element doesn't have a closing tag.**
-  2) **Line breaks should never be used to separate paragraphs**
-  3) **Line breaks should never be used to create larger gaps between lines of text.**
+  1) This element doesn't have a closing tag.
+  2) Line breaks should never be used to separate paragraphs
+  3) Line breaks should never be used to create larger gaps between lines of text.
   
 When larger visual gaps are needed around blocks of text, the `margin` CSS property should be used. Also, the paragraph's line-height can be used to adjust the spacing as well.
 
@@ -55,12 +55,10 @@ Cupertino, CA<br>
 </p>
 ```
 Result:
-```
-Apple
-1 Infinite Loop
-Cupertino, CA
-95014
-```
+
+##### --> element-br-2.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/EpZVRO)
 
 
 ---

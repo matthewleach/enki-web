@@ -17,6 +17,10 @@ aspects:
   - introduction
   - workout
   - deep
+  
+links:
+  - '[CodePen: pre & code Elements](https://codepen.io/enkidevs/pen/BVqPgZ){code}'
+
 ---
 # pre - Preformatted Text
 ---

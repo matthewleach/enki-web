@@ -22,7 +22,8 @@ aspects:
   - deep
 
 links:
-  - '[Code Sample](https://codepen.io/lizthedeveloper/pen/gzrZza){code}'
+  - '[CodePen: Code Element](https://codepen.io/lizthedeveloper/pen/gzrZza){code}'
+  - '[CodePen: Another Code Element](https://codepen.io/lizthedeveloper/pen/gzrZza){code}'
 
 ---
 # code - Display code in HTML

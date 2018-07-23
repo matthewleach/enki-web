@@ -15,6 +15,8 @@ tags:
   - deep
   
 links:
+  - '[CodePen: Element abbr](https://codepen.io/enkidevs/pen/rrjOGv){code}'
+  - '[CodePen: Element abbr Styled](https://codepen.io/enkidevs/pen/rKQEEK){code}'
   - '[MDN docs for global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes){website}'
   
 ---
@@ -39,11 +41,15 @@ Example:
 ```
 Result:
 
-##### --> intro-abbr.svg
+##### --> element-abbr.svg
+
+![View Codepen](https://codepen.io/enkidevs/pen/rrjOGv)
 
 By default, the `<abbr>` element is displayed as an inline element. 
 
 The `<abbr>` element can also be styled with appropriate CSS properties.
+
+##### --> element-abbr-styled.svg
 
 ![View CodePen](https://codepen.io/enkidevs/pen/rKQEEK)
 

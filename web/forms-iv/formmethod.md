@@ -16,6 +16,9 @@ aspects:
   - workout
   - deep
   - obscura
+  
+links:
+  - '[CodePen: Form Method](https://codepen.io/enkidevs/pen/QxzJXd){code}'
 
 ---
 # Form Method
@@ -54,7 +57,7 @@ Example:
 
 ##### --> form-formmethod.svg
 
-![View CodePen](https://codepen.io/enkidevs/pen/QxzJXdhttps://codepen.io/enkidevs/pen/QxzJXd)
+![View CodePen](https://codepen.io/enkidevs/pen/QxzJXd)
 
 ---
 ## Practice

@@ -15,6 +15,8 @@ tags:
   - deep
 
 links:
+  - '[CodePen: Element small](https://codepen.io/enkidevs/pen/NBdxNX){code}'
+  - '[CodePen: Element small (headings)](https://codepen.io/enkidevs/pen/OwWMbj){code}'
   - '[MDN docs for globat attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes){website}'
   
 ---
@@ -40,9 +42,9 @@ and our <a href="#">Privacy Policy
 </a></small>.</p>
 ```
 
-##### --> small-element.svg
+##### --> element-small.svg
 
-![View CodePen](https://codepen.io/enkidevs/pen/bKQXeR)
+![View CodePen](https://codepen.io/enkidevs/pen/NBdxNX)
 
 By default, the font-size is generally set to .8em smaller than the existing text, which is also often 1 font size smaller. In this example the Test text will display at the same size:
 
@@ -50,6 +52,9 @@ By default, the font-size is generally set to .8em smaller than the existing tex
 <h1><small>Test</small></h1>
 <h2>Test</h2>
 ```
+##### --> element-small-headings.svg
+
+![View CodePen](https://codepen.io/enkidevs/pen/OwWMbj)
 
 ---
 ## Practice

@@ -17,6 +17,9 @@ aspects:
   - workout
 
 links:
+  - '[CodePen: Form Submit & Rest](https://codepen.io/enkidevs/pen/QBdKym){code}'
+  - '[CodePen: Form Submit & Reset](https://codepen.io/enkidevs/pen/ZjLpWm){code}'
+  - '[CodePen: Form with access keys](https://codepen.io/enkidevs/pen/xJgEVv){code}'
   - '[MDN docs for reset](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/reset){website}'
   - '[MDN docs for submit](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/submit){website}'
 
@@ -43,6 +46,8 @@ Example reset:
 ```
 ##### --> form-reset-btn.svg
 
+![View CodePen](https://codepen.io/enkidevs/pen/QBdKym)
+
 The `value` of either type is represented with a `DOMString`. This is something the client never sees, but the server uses this `value` along with the `name` value as a `name/value` pair upon the submission of the form. In this case, the `name/value` pair would be `text=userinput`. On the other hand, if no value is specified, the buttons will have a default value set by the browser.
 
 The `type="submit"` button is used to submit a form.
@@ -60,11 +65,12 @@ Example submit and reset with one text field:
       type="submit"
       value="Next">
   <input
-  
     type="reset"
     value="Reset name">
 </form>
 ```
+
+![View CodePen](https://codepen.io/enkidevs/pen/ZjLpWm)
 
 Furthermore, you can add shortcuts both to the `submit` and `reset` buttons via the `accesskey` attribute:
 Previous example with shortcuts added:
@@ -86,6 +92,8 @@ Previous example with shortcuts added:
     accesskey="r">
 </form>
 ```
+
+![View CodePen](https://codepen.io/enkidevs/pen/xJgEVv)
 
 In this example, on a Mac, pressing `Control`+`Option`+`S`/`R` triggers the `Next`/`Reset name` buttons respectively, while on Windows the shortcut is `Alt`+`S`/`R`.
 

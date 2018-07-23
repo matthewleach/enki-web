@@ -22,8 +22,9 @@ aspects:
   - deep
 
 links:
+  - '[CodePen: kbd Element](https://codepen.io/enkidevs/pen/pKxKGE){code}'
   - '[MDN Docs for kbd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd){website}'
-  - '[Code Sample](https://codepen.io/lizthedeveloper/pen/NMNeoj){code}'
+  - '[CodePen: Simple kbd Example](https://codepen.io/lizthedeveloper/pen/NMNeoj){code}'
 
 ---
 # kbd - Keyboard Input Element

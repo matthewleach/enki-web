@@ -18,6 +18,9 @@ aspects:
   - workout
   - deep
 
+links:
+  - '[CodePen: & in HTML](https://codepen.io/enkidevs/pen/JBEbbN){code}'
+
 ---
 
 # Ampersand
@@ -58,7 +61,11 @@ Result:
 Get AT&T free first 3 months!
 ```
 
+![View CodePen](https://codepen.io/enkidevs/pen/JBEbbN)
+
+
 Character entities are case sensitive and are also used to display characters not present on the keyboard.
+
 ---
 ## Practice
 

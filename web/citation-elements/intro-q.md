@@ -20,6 +20,7 @@ aspects:
   - deep
 
 links:
+  - '[CodePen: Q Element with Cite](https://codepen.io/enkidevs/pen/gKBYJO){code}'
   - '[MDN docs for q](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q){website}'
 
 ---

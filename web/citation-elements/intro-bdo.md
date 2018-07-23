@@ -23,6 +23,7 @@ aspects:
   - obscura
 
 links:
+  - '[CodePen: bdo element](https://codepen.io/enkidevs/pen/vrVBWQ){code}'
   - '[MDN docs for bdo](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bdo){website}'
 
 ---
