@@ -50,13 +50,9 @@ Result:
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/vaKKQZ)-->
 
-In the example above, the `Visit Enki's 5-minute workouts!` is the hyperlink, and by clicking on the text will open the URL provided in the `href="URL"` attribute.
+In the example above, the `Visit Enki's 5-minute workouts!` is the hyperlink, and by clicking on the text will open the URL provided in the `href="URL"` attribute. The attribute `href` is the most important element because it specifies the destination(URL) of where the link should open.
 
-The attribute `href` is the most important element because it specifies the destination(URL) of where the link should open.
-
-By default, links open within the existing tab or window. 
-
-The linked page can be directed to open differently by setting  the `_target="???"` attribute with these options:
+By default, links open within the existing tab or window. The linked page can be directed to open differently by setting  \the `_target="???"` attribute with these options:
 
  - _self     = Default setting. Opens the link in the same tab or window.
  - _top      = Opens the link in the full body of the window.
@@ -80,9 +76,7 @@ During the web page development process, if web pages aren't created yet or you 
  but doesn't work yet.</a>
 ```
 
-Next to linking through text, it is also common to link through pictures.
-
-To link images, the same tags are used, but wrap around an image element like this: 
+It is also common to add links to images. To link images, the same tags are used, but wrap around an image element like this: 
 
 ```
 <a href="https://enki.com/" 
