@@ -36,7 +36,7 @@ The HTML `<address>` element is used to provide contact information about the au
 
 This element can contain different types of content:
   - Physical address
-  - Url
+  - URL
   - E-mail address
   - Phone number
   - Geographical coordinates
