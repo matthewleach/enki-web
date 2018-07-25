@@ -47,7 +47,7 @@ However, adding the closing tags is considered a best practice. Why? Because, ev
 
 Also, certain tags in HTML5 do not have to have an open tag either, like the `<body>`, `<head>`, `<html>`, etc.. However, for easier readability for many developers, it is best to use both the starting and ending tags of an HTML element.
 
-In HTML5, this is unusual, but valid and currently encouraged by Google:
+In HTML5, this is still a bit unusual today, but valid and currently encouraged by Google:
 
 ```
 <!-- Not recommended by Google-->
