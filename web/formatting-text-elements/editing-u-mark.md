@@ -28,7 +28,7 @@ links:
 
 ### Mark Text 
 
-Next, the `<mark>`, or the **Mark Text** element, is used to specify that some text is marked or highlighted.
+The `<mark>`, or the **Mark Text** element, is used to specify that some text is marked or highlighted.
 
 Mark Text Example:
 ```
