@@ -85,16 +85,16 @@ The `set-cookie` attribute is used to define a `cookie` for the page. However, y
 
 Write the meta tag that automatically redirects users from one webpage to another after 30 seconds.
 
-`<??? ????="???" ???="??? ???">`
+`<??? ???="???" ???="??? ???">`
 
-* meta
-* http-equiv
-* refresh
-* content
-* 30;
-* URL=redirectedpage.html
-* redirect
-* http://redirectedpage.html
+* `meta`
+* `http-equiv`
+* `refresh`
+* `content`
+* `30;`
+* `URL=redirectedpage.html`
+* `redirect`
+* `http://redirectedpage.html`
 
 ---
 ## Revision
