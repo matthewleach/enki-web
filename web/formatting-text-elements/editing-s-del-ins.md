@@ -40,7 +40,7 @@ Strikethrough Text Result:
 
 **Notes:** If you want to indicate a document edit, don't use the `<s>` element, you should use the `<del>` and/or `<ins>` elements instead.
 
-### `<del>` & `<ins>`
+### Deleted & Inserted Text
 
 Next, the `<del>`, or the **Deleted Text** element is used to specify that some text has been deleted and the `<ins>`, or the **Inserted Text** element is used to indicate that some text was inserted/added to the document.
 
