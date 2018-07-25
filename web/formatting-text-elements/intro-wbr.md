@@ -24,9 +24,9 @@ tags:
 
 ## Content
 
-The HTML `<wbr>`, or sometimes referred to as the **Line Break Opportunity** element and is used to indicate a position in a text where the browser 'may' break a line. 
+The HTML `<wbr>`, or sometimes referred to as the **Line Break Opportunity** element, is used to indicate a position in a text where the browser 'may' break a line. 
 
-You can use this to tell the browser that it can break a line in a place the browser wouldn't normally do it. Also, by doing so, you make the browser only break where the `<wbr>` element is. This means, for instance if you have a link where only the last letter of the link doesn't fit the browser window and you have a `<wbr>` element at the middle of that link, as soon as the link can't fit the browsers breaks it at the `<wbr>` elements position.
+You can use this to tell the browser that it can break a line in a place the browser wouldn't normally do it. Also, by doing so, you make the browser only break where the `<wbr>` element is. This means, for instance if you have a link where only the last word of the link doesn't fit the browser window and you have a `<wbr>` element at the middle of that link, as soon as the link can't fit the browsers breaks it at the `<wbr>` elements position.
 
 Let's say you have this link:
 ```
