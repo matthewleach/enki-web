@@ -85,16 +85,9 @@ What is used to provide search engines with information about the content/purpos
 
 Can you name three types of the most common meta tags?
 
-1) ???
-2) ???
-3) ???
+???
 
-* Title
-* Description
-* Robots
-* Follow
-* Advertise
-* Keyword
-* Facebook
-* Twitter
-* Google
+* Title, Description and Robots
+* Follow, Advertise and Keyword
+* Facebook, Twitter and Google
+* Title, Keyword and Advertise
