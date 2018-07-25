@@ -1,4 +1,4 @@
-# Intro dfn
+---
 author: matthew-leach
 
 levels:
@@ -18,6 +18,8 @@ links:
   - '[CodePen: Element dfn](https://codepen.io/enkidevs/pen/LBxpJo){code}'
   - '[CodePen: Element dfn & abbr](https://codepen.io/enkidevs/pen/ejgpQj){code}'
   
+---
+# Intro dfn
 ---
 ## Content
 
