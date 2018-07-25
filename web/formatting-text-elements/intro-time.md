@@ -56,25 +56,33 @@ Examples of formats:
 Year:
   - 2018
   - 0018
+
 Month:
   - 2018-06
+
 Date:
   - 2018-06-01
+
 Yearless Date:
   - 06-01
+
 Week string:
   - 2018-W5
+
 Time:
   - 15:33
   - 15:33:12
   - 15:33:12:551
+
 Local date and time:
   - 2018-06-01T15:33:12:551
+
 Global Date and time:
   - 2018-06-01T15:33:12:551z
   - 2018-06-01 15:33:12:551z
   - 2018-06-01 15:33:12:551-0400(04:00 is UTC-4)
   - 2018-06-01 15:33:12:551+03:00(04:00 is UTC+3)
+
 Duration:
   - P5D = duration of 5 days
   - P1H12M = durationn of 1 hour and 12 minutes
