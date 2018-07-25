@@ -47,7 +47,7 @@ Example:
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/gKZKKK)-->
 
-The `step` attribute is easy to assign with the `number` input adn works with any positive floadint point value (.1, .5, 1.667, etc). The `step` attribute can also work together with `min` and `max` attributes to create a range of legal values. When a value isn't assigned, it will often start at 0 or the min value.
+The `step` attribute is easy to assign with the `number` input and works with any positive floating point value (.1, .5, 1.667, etc). The `step` attribute can also work together with `min` and `max` attributes to create a range of legal values. When a value isn't assigned, it will often start at 0 or the min value.
 
 If you want to accept any value regardless of how many decimal places, you can set the `step` value as `any`.
 
