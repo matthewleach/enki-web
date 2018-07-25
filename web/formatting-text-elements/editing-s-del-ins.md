@@ -50,11 +50,9 @@ Both elements have the same 2 element-specific attributes:
   
 The `cite` attribute is used to specify the URL which explains the change. 
 
-The `datetime` attribute is used to indicate the time of the change and the date has to be properly specified(YYMMDD) otherwise it won't parse properly and the element won't have a time stamp.
+The `datetime` attribute is used to indicate the time of the change and the date has to be properly specified (YYMMDD), otherwise it won't parse properly and the element won't have a time stamp.
 
 The `<del>` element is usually rendered with strikethrough text, whereas the `<ins>` is usually rendered with underlined text. 
-
-Nevertheless, how these elements are rendered depends on the browser.
 
 ```
 <del><p>Old Text</p></del>
