@@ -21,7 +21,7 @@ links:
 
 In order to add a link onto an image, simply place the link `<a>``</a>` element around any image element `<img>`: 
 
-```
+```html
 <a href="http://enki.com">
   <img src="icon.png" alt="Click to visit Enki">
 </a>
@@ -31,7 +31,7 @@ In order to add a link onto an image, simply place the link `<a>``</a>` element 
 
 Actually, anything added within a link element in HTML5 will be linked - this includes any blocks of text, any number of images, etc. But just because anything can be linked, doesn't mean it all should. Best practices typically encourage all elements to be individually linked. But, linking both an image and text would be written like this: 
 
-```
+```html
 <a href="http://enki.com">
   <img src="icon.svg" alt="Click Here">
   <p>Link to Enki</p>
