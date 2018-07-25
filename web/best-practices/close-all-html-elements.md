@@ -36,9 +36,7 @@ Result:
 
 In this example, the `<p>` is the starting tag of a paragraph, the `</p>` is the closing tag, and all the text to be displayed within the paragraph is written between those tags.
 
-In HTML5 there are no strict rules for some closing tags - such as, the closing paragraph tag isn't necessary.
-
-In HTML5, the closing `</p>` isn't required as you can see:
+In HTML5 there are no strict rules for some closing tags - such as, the closing paragraph tag isn't necessary. As you can see in this example, this paragraph works without any closing `</p>` tag:
 ```
 <p>Content goes here
 ```
