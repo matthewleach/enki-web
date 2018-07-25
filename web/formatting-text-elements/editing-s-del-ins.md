@@ -1,4 +1,4 @@
-# Editing (s, del, ins,)
+# Editing (s, del, ins)
 author: matthew-leach
 
 levels:
