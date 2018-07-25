@@ -26,9 +26,9 @@ links:
 ---
 ## Content
 
-### `<mark>` 
+### Mark Text 
 
-Next, the `<mark>`, or the **Mark Text** element is used to specify that some text is marked or highlighted.
+Next, the `<mark>`, or the **Mark Text** element, is used to specify that some text is marked or highlighted.
 
 Mark Text Example:
 ```
@@ -49,9 +49,9 @@ The `<mark>` element is often used to indicate a part of the text of the documen
 Also, when `<mark>` is used within a `<q>` or `<blockquote>` element it indicates that that text is important even though it is not marked by the original author as important. This is like highlighting important text from a book with a marker/highlighter.
 
 
-### `<u>` 
+### Unarticulated Annotation
 
-Last but not least, the `<u>`, or the **Unarticulated Annotation** element is used to indicate that some text should be rendered differently from the rest of the text in a way that indicated non-textual annotation. 
+The `<u>`, or the **Unarticulated Annotation** element, is used to indicate that some text should be rendered differently from the rest of the text in a way that indicated non-textual annotation. 
 
 Example:
 ```
