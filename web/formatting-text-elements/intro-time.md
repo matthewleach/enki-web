@@ -25,11 +25,7 @@ links:
 ---
 ## Content
 
-The HTML `<time>` element is used to represent a specific period of time.
-
-This element has a machine-readable `datetime` attribute that indicates the time and or date of the `<time>` element.
-
-The `datetime` attribute has to be in a specific format.
+The HTML `<time>` element is used to represent a specific period of time. This element has a machine-readable `datetime` attribute that indicates the time and or date of the `<time>` element. The `datetime` attribute has to be in a specific format.
 
 Full Date format: `YYYY-MM-DDThh:mm:ssTZD` 
 
@@ -51,7 +47,7 @@ Full Period in time format: `PTDHMS`
 * S    -  Seconds
 
 
-Examples of formats:
+### Examples of formats:
 
 Year:
   - 2018
