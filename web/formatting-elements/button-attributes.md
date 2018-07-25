@@ -39,7 +39,7 @@ links:
 
 ### disabled
 
-`disabled` is used to forbid the user from pressing the button. Also, if the button is in a form, or `<fieldset>` element, which has a `disabled` attribute, then the button inherits it.  
+`disabled` is used to display the button, but disable the button from being pressed by the user. Also, if the button is in a form, or `<fieldset>` element, which has a `disabled` attribute, then the button inherits it.  
 
 ### name
 
