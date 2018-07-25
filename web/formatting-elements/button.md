@@ -27,7 +27,7 @@ links:
 
 The HTML `<button>` element may seem similar to a link `<a>` with a little more default style, but there are key differences: 
 
-* Buttons are best used *within Forms*. 
+* Buttons are best used *within* Forms. 
 * Buttons not used within Forms require JavaScript to have any functionality. 
 
 The default `<button>` element looks like this: 
