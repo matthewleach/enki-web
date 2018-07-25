@@ -31,8 +31,6 @@ The HTML heading elements are very important when determining the style and stru
 
 There are 6 headings in HTML5 ranging from `<h1>` to `<h6>`. `<h1>` being the largest in size by default and most important by search engines. `<h6>` being the smallest and least important of the text headings within a web page.
 
-A `h1` should describe the topic of the entire page. `h2`'s typically describe primary blocks of content within the page, and `h3`'s describe less important blocks of content, etc. 
-
 Example:
 ```
 <h1>Heading 1</h1>
@@ -50,6 +48,8 @@ Heading Size Result:
 <!--[View CodePen](https://codepen.io/enkidevs/pen/KBMMBb)-->
 
 Search engines interpret headings as part of your page and use the hierarchy to help understand the important of the content of the web page. It is important that regardless of how much content the web page has, each web page has at least one `<h1>` highlighting the most important topic of the page. 
+
+A `h1` should describe the topic of the entire page. `h2`'s typically describe primary blocks of content within the page, and `h3`'s describe less important blocks of content, etc. 
 
 Headings are also useful for readability since users typically skim through pages primarly scanning the headings first. Thus, the size of the headings can help provide visual cues to the importance of different sections of the web pages.
 
