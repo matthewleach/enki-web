@@ -27,7 +27,7 @@ links:
 
 Hyperlinks are more commonly called just 'links' in HTML. They are very useful for navigating from one document to another or even different sections of long web pages.
 
-By default, un-visited links are blue, highlighted, and underlined.
+By default, un-visited links are blue and underlined.
 
 Whereas links you have already clicked on at least once are red.
 
