@@ -24,7 +24,7 @@ links:
 ---
 ## Content
 
-The HTML `<abbr>`, or the **Abbreviation** element is used to represent an abbreviation. The element has a `title` attribute which can provide a full description of the abbreviation and nothing else.
+The HTML `<abbr>`, or the **Abbreviation** element, is used to represent an abbreviation. The element has a `title` attribute which can provide a full description of the abbreviation and nothing else.
 
 The content of the title is often shown in a tooltip when a user hovers over the element.  Also, some browsers add a dotted underline to the content of the element. 
 
