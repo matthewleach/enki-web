@@ -39,7 +39,7 @@ Some Text<br>Some Text<br>bla bla
   2) Line breaks should never be used to separate paragraphs.
   3) Line breaks should never be used to create larger gaps between lines of text.
   
-When larger visual gaps are needed around blocks of text, the `margin` CSS property should be used. Also, the paragraph's line-height can be used to adjust the spacing as well.
+When larger visual gaps are needed around blocks of text, the `margin` CSS property should be used (such as `margin-bottom: 24px;`). 
 
 Historical, in XHTML the line breaks are written as `<br />` which is important to know if you want to convert your HTML to XHTML or when reading various tutorials.
 
