@@ -28,7 +28,7 @@ links:
 
 ### Mark Text 
 
-The `<mark>`, or the **Mark Text** element, is used to specify that some text is marked or highlighted.
+The `<mark>`, or the **Mark Text** element, is used to specify that some text is marked or highlighted. The `<mark>` element is often used to indicate a part of the text of the document that is relevant to the user's search.
 
 Mark Text Example:
 ```
@@ -42,9 +42,7 @@ Result:
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/GBrJdP)-->
 
-The text within the `<mark>` element is usually rendered with a yellow background.
-
-The `<mark>` element is often used to indicate a part of the text of the document that is relevant to the user's search.
+The text within the `<mark>` element is usually rendered with a yellow background, but the `background-color` of the element can be changed using CSS.
 
 Also, when `<mark>` is used within a `<q>` or `<blockquote>` element it indicates that that text is important even though it is not marked by the original author as important. This is like highlighting important text from a book with a marker/highlighter.
 
