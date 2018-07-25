@@ -43,7 +43,7 @@ The defaults of paragraphs:
 * The font size is 16px (pixels).
 * The alignment is left aligned.
 * The font family is Times New Roman.
-* There is margin of space around the top and bottom of each paragraph that is typically 1em. 
+* There is a margin of space around the top and bottom of each paragraph that is typically 1em. 
 
 ---
 ## Practice
