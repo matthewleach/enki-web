@@ -23,7 +23,7 @@ links:
 ---
 ## Content
 
-### `<s>`
+### Strikethrough Text
 
 The HTML `<s>`,  or the **Strikethrough Text** element, is used to create a strikethrough in a text. This is usually used to specify that some text is no longer correct or relevant.
 
@@ -56,7 +56,6 @@ The `<del>` element is usually rendered with strikethrough text, whereas the `<i
 
 Nevertheless, how these elements are rendered depends on the browser.
 
-Deleted & Inserted Text Example:
 ```
 <del><p>Old Text</p></del>
 <ins><p>New Text</p></ins>
