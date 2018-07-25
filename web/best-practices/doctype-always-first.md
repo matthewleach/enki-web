@@ -34,7 +34,7 @@ For HTML5 the declaration is typed as:
 <!DOCTYPE html>
 ```
 
-*Note:* The DOCTYPE tag is *not* an HTML element, but a tag specific for browsers to identify the type of code in the document.
+**Note:** The DOCTYPE tag is *not* an HTML element, but a tag specific for browsers to identify the type of code in the document.
 
 ---
 ## Practice
