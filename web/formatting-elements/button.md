@@ -44,7 +44,6 @@ The default `<button>` element looks like this:
 
 In this case, both the button and the input look and behave the same. 
 
-This input...
 ```
 <form action="/" method="post">
   <button>Submit</button>
