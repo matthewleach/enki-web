@@ -1,4 +1,4 @@
-# Editing (s, del, ins, u, mark)
+# Editing (s, del, ins,)
 author: matthew-leach
 
 levels:
@@ -17,9 +17,7 @@ tags:
 links:
   - '[CodePen: s Element](https://codepen.io/enkidevs/pen/LBxVxz){code}'
   - '[CodePen: del & ins Element](https://codepen.io/enkidevs/pen/ejgNyd){code}'
-
----
-# Editing (s, del, ins)
+  
 ---
 ## Content
 
