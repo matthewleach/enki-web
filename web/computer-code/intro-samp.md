@@ -36,7 +36,7 @@ Example:
 ```
 <p>This is the crazy error I got:</p>
 <p><samp>Keyboard not found<br>
-  Press F1 to continue</samp></p>
+Press F1 to continue</samp></p>
 ```
 
 Sample Output Result:
