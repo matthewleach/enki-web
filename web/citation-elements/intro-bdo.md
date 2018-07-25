@@ -31,7 +31,7 @@ links:
 ---
 ## Content
 
-The HTML `<bdo>`, or the ** Bidirectional Text Override** element, is used to override the current directionality of text. This means that you can have text written in one direction, render and display in the opposite direction.
+The HTML `<bdo>`, or the **Bidirectional Text Override** element, is used to override the current directionality of text. This means that you can have text written in one direction, render and display in the opposite direction.
 
 This element has 2 element related attributes, `ltr` and `rtl`.
  - `ltr` sets text direction to Left-to-Right.
