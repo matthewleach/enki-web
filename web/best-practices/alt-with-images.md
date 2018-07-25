@@ -33,7 +33,6 @@ Example:
 ```
 <img src="waterfall.jpg"
   alt="Niagara Falls during Sunset">
-
 ```
 If the "waterfall.jpg" image doesn't load properly, it will display a broken image icon using the alt text like this: 
 
