@@ -60,7 +60,7 @@ Example of element-specific attributes:
 </meter>
 ```
 
-To learn more about these specific attributes, visit the `more info` section below that links to the detailed insight.
+<!--To learn more about these specific attributes, visit the `more info` section below that links to the detailed insight.-->
 
 ---
 ## Practice
