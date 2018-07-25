@@ -23,10 +23,10 @@ links:
 The HTML `<sub>`, or the **Subscript** element is used to display some text as subscript (written or printed **below** the line), whereas the `<sup>`, or the **Superscript** element is used to display some text as superscript (written or printed **above** the line).
 
 Both elements are only used for typographical reasons and neither should be used for styling and/or appearance only. If you want to style your text sub or superscript, you can use the appropriate CSS properties:
-  - `vertical-align: sub`
-  - `vertical-align: -25%`
-  - `vertical-align: super`
-  - `vertical-align: 50%`
+  - `vertical-align: sub;`
+  - `vertical-align: -25%;`
+  - `vertical-align: super;`
+  - `vertical-align: 50%;`
 
 For instance, you can use the subscript for properly display the 2 in H20 and you can use the superscript to properly display the 2 in E = mc2.
 
