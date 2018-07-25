@@ -32,11 +32,11 @@ Example:
 I have $40 left in my account.
 I have <s>$40</s> $35 left in my account
 ```
-Result:
+Strikethrough Text Result:
 
-##### --> editing-elements-s.svg
+![editing-elements-s](%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22320%22%20height%3D%2288%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Crect%20width%3D%22320%22%20height%3D%2288%22%20fill%3D%22%23FFF%22%20rx%3D%229%22%2F%3E%3Ctext%20fill%3D%22%23000%22%20font-family%3D%22Roboto-Regular%2C%20Roboto%22%20font-size%3D%2216%22%3E%3Ctspan%20x%3D%2220%22%20y%3D%2234%22%3EI%20have%20%2440%20left%20in%20my%20account.%3C%2Ftspan%3E%3C%2Ftext%3E%3Ctext%20fill%3D%22%23000%22%20font-family%3D%22Roboto-Regular%2C%20Roboto%22%20font-size%3D%2216%22%3E%3Ctspan%20x%3D%2220%22%20y%3D%2264%22%3EI%20have%20%2440%20%2435%20left%20in%20my%20account.%3C%2Ftspan%3E%3C%2Ftext%3E%3Cpath%20stroke%3D%22%23000%22%20stroke-linecap%3D%22square%22%20d%3D%22M66.5%2059.5h26%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E)
 
-![View CodePen](https://codepen.io/enkidevs/pen/LBxVxz)
+<!--[View CodePen](https://codepen.io/enkidevs/pen/LBxVxz)-->
 
 **Notes:** If you want to indicate a document edit, don't use the `<s>` element, you should use the `<del>` and/or `<ins>` elements instead.
 
@@ -56,18 +56,16 @@ The `<del>` element is usually rendered with strikethrough text, whereas the `<i
 
 Nevertheless, how these elements are rendered depends on the browser.
 
-Example:
+Deleted & Inserted Text Example:
 ```
 <del><p>Old Text</p></del>
 <ins><p>New Text</p></ins>
 ```
 Result:
 
-##### --> editing-elements-del-ins.svg
+![editing-elements-del-ins](%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22320%22%20height%3D%2288%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Crect%20width%3D%22320%22%20height%3D%2288%22%20fill%3D%22%23FFF%22%20rx%3D%229%22%2F%3E%3Ctext%20fill%3D%22%23000%22%20font-family%3D%22Roboto-Regular%2C%20Roboto%22%20font-size%3D%2216%22%3E%3Ctspan%20x%3D%2220%22%20y%3D%2234%22%3EOld%20Text%3C%2Ftspan%3E%3C%2Ftext%3E%3Ctext%20fill%3D%22%23000%22%20font-family%3D%22Roboto-Regular%2C%20Roboto%22%20font-size%3D%2216%22%3E%3Ctspan%20x%3D%2220%22%20y%3D%2264%22%3ENew%20Text%3C%2Ftspan%3E%3C%2Ftext%3E%3Cpath%20stroke%3D%22%23000%22%20stroke-linecap%3D%22square%22%20d%3D%22M20.5%2029.5h58M21%2067h65%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E)
 
-![View CodePen](https://codepen.io/enkidevs/pen/ejgNyd)
-
-
+<!--[View CodePen](https://codepen.io/enkidevs/pen/ejgNyd)-->
 
 ---
 ## Practice

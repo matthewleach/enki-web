@@ -28,7 +28,7 @@ This is because being consistent in writing lowercase makes your code more reada
 ```html
 <div>
   <h1>Lowercase</h1>
-  <h2>Which is better?!?</h1>
+  <h2>Which is better?!?</h2>
   <p>Which seems to be easier to read?</p>
 </div>
 
@@ -37,7 +37,7 @@ or
 ```html
 <DIV>
   <H1>Lowercase</H1>
-  <H2>Which is better?!?</H1>
+  <H2>Which is better?!?</H2>
   <P>Which seems to be easier to read?</P>
 </DIV>
 

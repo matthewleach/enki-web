@@ -51,6 +51,7 @@ Elements give content meaning based on their function. For example, a page headi
 Paragraphs: `<p>`, images: `<img>`, and hyperlinks: `<a>` are also important semantic building blocks.
 
 To give them meaning, however, they must be enclosed in a `<body>` element, which establishes what part of the HTML document the browser has to represent:
+
 ```html
 <body>
   <h1> Title </h1>
@@ -61,7 +62,9 @@ To give them meaning, however, they must be enclosed in a `<body>` element, whic
       external link</a>.</p>
 </body>
 ```
-The part of the HTML that is not *displayed* in the web page itself, but helps the browser decide *how* to display the content is called **head**. It usually contains information such as the title of the web page displayed in the browser's tab and links to the CSS document that contains the styles used in this page[2]:
+
+The part of the HTML that is not *displayed* in the web page itself, but helps the browser decide *how* to display the content is called **head**. It usually contains information such as the title of the web page displayed in the browser's tab and links to the CSS document that contains the styles used in this page:
+
 ```html
 <html>
 <head>
