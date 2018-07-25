@@ -26,9 +26,11 @@ Since HTML5, using quotes around attributes is optional.
 Example:
 ```
 <a href="#" class="btn">
-  Click Me</a>
+  Click Me
+</a>
 <a href=# class=btn>
-  Click Me</a>
+  Click Me
+</a>
 ```
 Both produce same result:
 
