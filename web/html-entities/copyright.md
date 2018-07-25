@@ -64,10 +64,10 @@ Why can using "&copy;" for a copyright symbol be easier to code?
 
 ???
 
-* Because © isn't available on your keyboard.
-* Typing © on your keyboard is easier than using "&copy;".
+* Because `©` isn't available on your keyboard.
+* Typing `©` on your keyboard is easier than using `&copy;`.
 * There is no good way to code the copyright symbol.
-* &copy; is smaller in filesize, loading faster.
+* `&copy;` is smaller in filesize, loading faster.
 
 ---
 ## Revision
@@ -76,11 +76,11 @@ What HTML character entity is used to insert a copyright symbol into a document?
 
 ???
 
-* &copy;
-* @
-* ©
-* &copyright
-* @c
+* `&copy;`
+* `@`
+* `©`
+* `&copyright`
+* `@c`
 
 ---
 ## Quiz
@@ -91,7 +91,7 @@ What does &copy; display in this line of code?
 
 `<p>The symbol "&copy;" should be pretty easy to recognize.</p>`
 
-* ©
-* symbol
-* &copy;
+* `©`
+* `symbol`
+* `&copy;`
 * Copyright [current year]
