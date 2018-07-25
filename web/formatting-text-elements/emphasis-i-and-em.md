@@ -31,7 +31,7 @@ links:
 
 The HTML `<i>` and `<em>` elements appear very similar since they both have the same default CSS styling of `font-style: italic`. But they both have different purposes. 
 
-The `<i>` element, which stands for **italic**, is used set a part of a text in a different tone. These parts of text may include:
+The `<i>` element, which stands for **Italic**, is used set a part of a text in a different tone. These parts of text may include:
 
   - Foreign language phrases
   - Fictional characters's thoughts
@@ -59,7 +59,7 @@ The `<i>` element, which stands for **italic**, is used set a part of a text in 
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/MBJwMp)-->
 
-The `<em>`, or the **Emphasis** element is used to *stress emphasis* on a piece of text read by a person (or software).
+The `<em>`, or the **Emphasis** element, is used to *stress emphasis* on a piece of text read by a person (or software).
 
 Notice how the `<em>` element helps share how this example text should be read:
 
