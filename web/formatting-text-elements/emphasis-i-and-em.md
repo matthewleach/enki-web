@@ -23,11 +23,9 @@ links:
   - '[MDN docs for global attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes){website}'
 
 ---
-# Emphasis (i & em)
+# Italic & Emphasis
 ---
 ## Content
-
-### Italic & Emphasis
 
 The HTML `<i>` and `<em>` elements appear very similar since they both have the same default CSS styling of `font-style: italic`. But they both have different purposes. 
 
