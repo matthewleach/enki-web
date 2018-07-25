@@ -48,9 +48,9 @@ Using the `<pre>` and `<code>` elements together with a little CSS can really im
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/BVqPgZ)-->
 
-**Note:** Since all spaces within the `<pre>` element are used, pay attention to adding any unnecessary spaces or hard returns after the opening tag. 
+Since all spaces within the `<pre>` element are used, pay attention to adding any unnecessary spaces or hard returns after the opening tag. 
 
-Bad Example: An extra hard return will display at the top of the code sample in the HTML page:
+**Bad Example:** An extra hard return will display at the top of the code sample in the HTML page:
 
 ```
 <pre>
@@ -60,7 +60,7 @@ Bad Example: An extra hard return will display at the top of the code sample in 
 </pre>
 ```
 
-Good Example: The displayed code is written immediately after the opening tag:
+**Good Example:** The displayed code is written immediately after the opening tag:
 
 ```
 <pre>.enki-highlight {
