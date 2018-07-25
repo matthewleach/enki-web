@@ -38,7 +38,7 @@ Both produce same result:
 
 Many people find this feature useful because it saves them time from typing quotations. Also, not putting quotation marks saves on bytes required for a page to load.
 
-Nevertheless, there are numerous reasons why you should still use quotations:
+Nevertheless, there are numerous reasons why you should *still use* quotations:
 
 - Easier readability
 - All editors can properly deal with quoted attributes
@@ -66,7 +66,7 @@ In the example above, it is easy to see the buttons do not display the same. Thi
 <a href="#" class="btn" large="">Click Me</a>
 ```
 
-It also doesn't matter which quotations you use:
+It also doesn't matter which quotations you use, single or double:
 
 Example:
 ```
