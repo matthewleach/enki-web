@@ -30,7 +30,7 @@ links:
 ---
 ## Content
 
-The HTML `<var>`, or the **variable** element, is used to represent a name of a variable in either a programming context or a mathematical expression.
+The HTML `<var>`, or the **Variable** element, is used to represent a name of a variable in either a programming context or a mathematical expression.
 
 Example:
 ```
