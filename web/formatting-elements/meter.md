@@ -23,7 +23,7 @@ links:
 ---
 ## Content
 
-The HTML `<meter>` element is used to represent a scalar value with a known range, or a fractional value. Most commonly used for displaying disk usage, blood pressure, a final grade score(90/100) or relevance of a search query result.
+The HTML `<meter>` element is used to represent a scalar value with a known range, or a fractional value. Most commonly used for displaying disk usage, blood pressure, a final grade score(90/100), or relevance of a search query result.
 
 Example grade results:
 ```
