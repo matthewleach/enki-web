@@ -25,7 +25,7 @@ links:
 
 ### `<s>`
 
-The HTML `<s>`,  or the **Strikethrough Text** element is used to create a strikethrough in a text. This is usually used to specify that some text is no longer correct or relevant.
+The HTML `<s>`,  or the **Strikethrough Text** element, is used to create a strikethrough in a text. This is usually used to specify that some text is no longer correct or relevant.
 
 Example:
 ```
