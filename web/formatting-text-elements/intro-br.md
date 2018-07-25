@@ -24,7 +24,7 @@ links:
 ---
 ## Content
 
-The `<br>`, or the **Line Break** element is used to create a line break in a webpage or document. Line breaks can be very useful for writing poems or an address.
+The `<br>`, or the **Line Break** element, is used to create a line break in a webpage or document. Line breaks can be very useful for writing poems or an address.
 
 Example 1:
 ```
