@@ -57,16 +57,14 @@ By adding CSS styles, the `<kbd>` element can be used to present the user input 
 ---
 ## Practice
 
-When using the `<kbd>` element, which statements are true?
+When using the `<kbd>` element, which statement is true?
 
 ???
-???
 
-+ represents user input
-+ displayed in the browser's default monospace font
-- produces a block element
-- represents preformatted text
-- represents sample output
+* represents user input
+* produces a block element
+* represents preformatted text
+* represents sample output
 
 ---
 ## Revision
