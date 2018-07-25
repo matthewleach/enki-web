@@ -58,7 +58,7 @@ Search engines will not penalize multiple uses of `h1`, but one use of an `h1` p
 
 By default, the `<h4>` heading is the same size as `<p>`, which is 16px.
 
-Don't skip heading sequences, like using `h1` and then an `h3`. 
+Don't skip heading sequences, like using `h1` and then an `h3`. You'll only want to use `h3` if you have both `h1` & `h2` on the page.
 
 ---
 ## Practice
