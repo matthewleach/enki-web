@@ -49,7 +49,7 @@ Address Example:
 <address>
   Authors Email:
   <a href="http://www.web.com/contact">
-    www.website.com
+    www.web.com/contact
   </a>.<br>
   Author address:<br>
   Company name<br>
@@ -59,7 +59,7 @@ Address Example:
 </address>
 ```
 
-![View CodePen](https://codepen.io/enkidevs/pen/OEoaVN)
+<!--[View CodePen](https://codepen.io/enkidevs/pen/OEoaVN)-->
 
 Beside representing contact information about the author of the document, the `<address>` element can be used with different types of context. When placed within a `<body>` element it represents information about the document. When placed within an `<article>` element it represents information about an article.
 
