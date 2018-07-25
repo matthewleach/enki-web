@@ -43,7 +43,7 @@ In HTML5 there are no strict rules for some closing tags - such as, the closing 
 ```
 <p>Content goes here
 ```
-However, adding the closing tags is considered a best practice. Why? Because, even though HTML5 assumes a new tag can start without the previous one being closed, there are older browsers versions that do not support HTML5. These browsers use XHTML or HTM, both of which have stricter rules and many developers today are used to adding closing tags for consistency.
+However, adding the closing tags is considered a best practice. Why? Because, even though HTML5 assumes a new tag can start without the previous one being closed, there are older browsers versions that do not support HTML5. These browsers use XHTML or XML, both of which have stricter rules and many developers today are used to adding closing tags for consistency.
 
 Also, certain tags in HTML5 do not have to have an open tag either, like the `<body>`, `<head>`, `<html>`, etc.. However, for easier readability for many developers, it is best to use both the starting and ending tags of an HTML element.
 
