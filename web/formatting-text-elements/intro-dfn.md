@@ -21,7 +21,7 @@ links:
 ---
 ## Content
 
-The HTML `<dfn>` or the **Definition** element is used to specify a term that's being defined within the `<p>`, `<section>` and/or `<dt>`/`<dd>` pairing elements. Also, the `<dfn>` element is usually used to indicate the first use of a term in a document.
+The HTML `<dfn>`, or the **Definition** element, is used to specify a term that's being defined within the `<p>`, `<section>` and/or `<dt>`/`<dd>` pairing elements. Also, the `<dfn>` element is usually used to indicate the first use of a term in a document.
 
 Example:
 ```
