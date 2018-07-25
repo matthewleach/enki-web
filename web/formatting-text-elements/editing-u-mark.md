@@ -46,7 +46,7 @@ Also, when `<mark>` is used within a `<q>` or `<blockquote>` element it indicate
 
 ### Unarticulated Annotation
 
-The `<u>`, or the **Unarticulated Annotation** element, is used to indicate that some text should be rendered differently from the rest of the text in a way that indicated non-textual annotation. 
+The `<u>`, or the **Unarticulated Annotation** element, is used to indicate that some text should be rendered differently from the rest of the text in a way that indicated non-textual annotation. The content of the `<u>` element is usually rendered as underlined. Nevertheless, you can change this by using the appropriate CSS styling - from this `text-decoration: underline;` to something like `text-decoration: #f00 wavy underline;`. 
 
 ```
 <p>You could use this element 
@@ -59,7 +59,7 @@ can <u>corect</u> them.</p>
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/OwWVBe)-->
 
-The content of the `<u>` element is usually rendered as underlined. Nevertheless, you can change this by using the appropriate CSS styling. (`text-decoration: underline;`)
+
 
 **Note:** The `<u>` element used to be called the `Underline` element before when it was only used to underline text. If you wish to set some text as underline, you should not use the `<u>` element to style it but rather the appropriate CSS properties.
 
