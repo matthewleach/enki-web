@@ -55,9 +55,8 @@ href="http://enki.com/samples/page.html">
 
 When links are used with text, such as headings and paragraphs, the text links use most of the style properties of that text (like the font family, font size, font weight) with a few changes: 
 
-* link text is blue by default. 
-* link text has a text decoration with an underline. 
-
+* link text is blue by default. (`color: #0000EE;`)
+* link text has a text decoration with an underline. (`text-decoration: underline;`)
 
 ---
 ## Practice
