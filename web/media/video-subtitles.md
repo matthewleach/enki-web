@@ -23,7 +23,7 @@ links:
   - '[Documentation on MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video){documentation}'
 
 ---
-# Video
+# Video Subtitles
 ---
 ## Content
 
