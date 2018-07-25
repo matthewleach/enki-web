@@ -23,7 +23,7 @@ links:
 ---
 ## Content
 
-The HTML `<span>` element is used to style inline HTML elements, meaning that it can style elements that are already on a line with other elements. By itself, the element does not represent any visual change by itself and CSS is needed to style it.
+The HTML `<span>` element is used to style inline HTML elements, meaning that it can style elements that are already on a line with other elements. By itself, the element does not represent any visual change by itself and CSS is required to style it.
 
 **Notes:**  
   - Only use `<span>` if you don't have a more appropriate semantic element.
