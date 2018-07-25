@@ -28,6 +28,7 @@ Example:
 <a href="#" class="btn">
   Click Me
 </a>
+
 <a href=# class=btn>
   Click Me
 </a>
@@ -52,10 +53,12 @@ There are times when putting quotations is necessary, like when an attribute con
 Example:
 ```
 <a href="#" class="btn large">
-  Click Me</a>
+  Click Me
+</a>
 
 <a href=# class=btn large>
-  Click Me</a>
+  Click Me
+</a>
 ```
 Result:
 
