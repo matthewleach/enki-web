@@ -31,26 +31,24 @@ This element has a machine-readable `datetime` attribute that indicates the time
 
 The `datetime` attribute has to be in a specific format.
 
-Full Date format:
-`YYYY-MM-DDThh:mm:ssTZD` 
+Full Date format: `YYYY-MM-DDThh:mm:ssTZD` 
 
-YYYY -  Year
-MM   -  Month
-DD   -  Day
-T    -  A separator( required if date includes time)
-hh   -  hours
-mm   -  minutes
-ss   -  seconds
-TZD  -  Time Zone Designator(Greenwich Mean Time)
+* YYYY -  Year
+* MM   -  Month
+* DD   -  Day
+* T    -  A separator( required if date includes time)
+* hh   -  hours
+* mm   -  minutes
+* ss   -  seconds
+* TZD  -  Time Zone Designator(Greenwich Mean Time)
 
-Full Period in time format:
-`PTDHMS`
+Full Period in time format: `PTDHMS`
 
-P    -  Period
-D    -  Days
-H    -  Hours
-M    -  Minutes
-S    -  Seconds
+* P    -  Period
+* D    -  Days
+* H    -  Hours
+* M    -  Minutes
+* S    -  Seconds
 
 
 Examples of formats:
