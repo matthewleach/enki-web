@@ -45,7 +45,7 @@ Example:
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/xzQvPv)-->
 
-Furthermore, the most common `<sup>` elements uses are to display exponents (x^2) or ordinal numbers (3rd,4th,5th). On the other hand, the most common use for the `<sub>` element is marking footnotes, variable numbers (X1, X2...Xn) and denoting numbers in chemical formulas.
+The most common `<sup>` elements uses are to display exponents (x^2) or ordinal numbers (3rd, 4th, 5th). The most common use for the `<sub>` element is marking footnotes, variable numbers (X1, X2...Xn), and denoting numbers in chemical formulas.
 
 **Note:** Both `<sup>` and `<sub>` cannot be used at the same time to make a subscript appear directly below a superscript number and vice versa. To do so, you need to use the MathML (Mathematical Markup Language). 
 
