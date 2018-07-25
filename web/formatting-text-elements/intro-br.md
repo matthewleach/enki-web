@@ -36,7 +36,7 @@ Some Text<br>Some Text<br>bla bla
 
 **Notes:**
   1) This element doesn't have a closing tag.
-  2) Line breaks should never be used to separate paragraphs
+  2) Line breaks should never be used to separate paragraphs.
   3) Line breaks should never be used to create larger gaps between lines of text.
   
 When larger visual gaps are needed around blocks of text, the `margin` CSS property should be used. Also, the paragraph's line-height can be used to adjust the spacing as well.
