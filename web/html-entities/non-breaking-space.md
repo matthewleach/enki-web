@@ -137,12 +137,12 @@ What HTML character entity is used to prevent the browser from breaking the line
 
 `<p>5???km</p>`
 
-* &nbsp;
-* &ensp;
-* &ltsp;
+* `&nbsp;`
+* `&ensp;`
+* `&ltsp;`
 * empty space: " "
-* &space
-* &gap
+* `&space`
+* `&gap`
 
 ---
 ## Quiz
@@ -151,9 +151,11 @@ What HTML character entity is used to prevent the browser from breaking the line
 
 What does the "&nbsp;" within this line of code do?
 
-```<img src="image1.png" alt="">
+```
+<img src="image1.png" alt="">
 &nbsp;
-<img src="image2.png" alt="">```
+<img src="image2.png" alt="">
+```
 
 * Adds an empty character of space between the images.
 * Prevents the images from starting on new line like word wrap.
