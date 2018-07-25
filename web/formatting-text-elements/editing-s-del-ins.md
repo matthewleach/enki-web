@@ -42,7 +42,7 @@ Strikethrough Text Result:
 
 ### Deleted & Inserted Text
 
-Next, the `<del>`, or the **Deleted Text** element is used to specify that some text has been deleted and the `<ins>`, or the **Inserted Text** element is used to indicate that some text was inserted/added to the document.
+Next, the `<del>`, or the **Deleted Text** element, is used to specify that some text has been deleted and the `<ins>`, or the **Inserted Text** element, is used to indicate that some text was inserted/added to the document.
 
 Both elements have the same 2 element-specific attributes:
   1. `cite`
