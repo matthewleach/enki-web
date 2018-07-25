@@ -23,7 +23,7 @@ links:
   - '[Validated on css-tricks.com](https://css-tricks.com/snippets/html/video-for-everybody-html5-video-with-flash-fallback/){documentation}'
 
 ---
-# Video
+# Video Formats
 ---
 ## Content
 
