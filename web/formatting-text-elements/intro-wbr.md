@@ -1,4 +1,4 @@
-# Intro wbr
+---
 author: matthew-leach
 
 levels:
@@ -20,8 +20,8 @@ tags:
   - deep
 
 ---
-## Content
-
+# Intro wbr
+---
 ## Content
 
 The HTML `<wbr>`, or sometimes referred to as the **Line Break Opportunity** element, is used to indicate a position in a text where the browser 'may' break a line. 
