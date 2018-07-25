@@ -23,7 +23,7 @@ links:
 ---
 ## Content
 
-The HTML `<progress>`, or the **Progress Indicator** element is used to display a progress bar.
+The HTML `<progress>`, or the **Progress Indicator** element, is used to display a progress bar.
 
 Example:
 ```
