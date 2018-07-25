@@ -26,7 +26,7 @@ links:
 
 The HTML `<b>`, or the ** Bring Attention To** element, is used to bring readers attention to some text and `<strong>`, or the **Strong Importance** element, is used to give importance to some content.
 
-The `<b>` element was also formerly known as the **Boldface element**.
+The `<b>` element was also formerly known as the **Boldface** element.
 
 Example:
 ```
