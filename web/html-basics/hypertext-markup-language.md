@@ -86,10 +86,10 @@ You can bookmark this insight to receive a link to the *first online web page*.
 The two main components of a HTML document are ???.
 
 
-* <head> and <body>
-* <heading> and <body>
-* <p> and <a>
-* <h> and <body>
+* `<head>` and `<body>`
+* `<heading>` and `<body>`
+* `<p>` and  `<a>`
+* `<h>` and `<body>`
 
 ---
 ## Revision
@@ -97,10 +97,10 @@ The two main components of a HTML document are ???.
 The two main components of a HTML document are ???.
 
 
-* <head> and <body>
-* <heading> and <body>
-* <p> and <a>
-* <h> and <body>
+* `<head>` and `<body>`
+* `<heading>` and `<body>`
+* `<p>` and `<a>`
+* `<h>` and `<body>`
 
 ---
 ## Footnotes
