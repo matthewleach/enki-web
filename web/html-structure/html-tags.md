@@ -54,19 +54,9 @@ Which of these characters is used to represent an end tag?
 
 ???
 
-* `/`
-* `^`
-* `<`
-* `>`
-* `*`
-
 HTML tags are recommended to be written in which case?
 
 ???
-
-* lowercase
-* uppercase
-* camelcase
 
 How many tags are used in this code:
 ```
@@ -77,12 +67,18 @@ How many tags are used in this code:
 
 ???
 
+* `/`
+* lowercase
 * 5
+* `^`
+* `<`
+* `>`
+* `*`
+* uppercase
+* camelcase
 * 2
 * 3
 * 4
-* 1
-* 6
 
 ---
 ## Revision
@@ -91,14 +87,13 @@ Every HTML element requires both an opening and closing HTML tag.
 
 ???
 
-* False
-* True
-
 What is the difference between an opening and closing HTML tag?
 
 ???
 
+* False
 * closing tag has a / within it.
+* True
 * there is no different between opening & closing tags.
 * opening tag has a / within it.
 * closing tag is an empty element.
@@ -108,7 +103,7 @@ What is the difference between an opening and closing HTML tag?
 
 ### How much do you know about HTML tags?
 
-Which language requires HTML tags to be written in lowercase and has influenced developers to continue to write HTML tags that way?
+Which language requires HTML tags to be written in lowercase and has influenced  developers to continue to write HTML tags that way?
 
 ???
 
