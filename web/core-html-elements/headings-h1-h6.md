@@ -50,7 +50,7 @@ Search engines interpret headings as part of your page and use the hierarchy to 
 
 A `h1` should describe the topic of the entire page. `h2`'s typically describe primary blocks of content within the page, and `h3`'s describe less important blocks of content, etc. 
 
-Headings are also useful for readability since users typically skim through pages primarly scanning the headings first. Thus, the size of the headings can help provide visual cues to the importance of different sections of the web pages.
+Headings are also useful for readability since users typically skim through pages primarily scanning the headings first. Thus, the size of the headings can help provide visual cues to the importance of different sections of the web pages.
 
 *Additional Tips:*
 
