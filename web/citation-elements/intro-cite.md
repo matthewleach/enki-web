@@ -28,7 +28,7 @@ links:
 ---
 ## Content
 
-The HTML `<cite>` element is used describe a reference of a cited **creative work**. This element needs to contain either the title or the URL of the cited work.
+The HTML `<cite>` element is used to describe a reference of a cited **creative work**. This element needs to contain either the title or the URL of the cited work.
 
 What falls under creative work:
 - Any online content
@@ -44,7 +44,7 @@ What falls under creative work:
 Example:
 ```
 <p>
-  More information about enki here
+  More information about Enki here
   <cite>
     [https://enki.com/about]
   </cite>.
