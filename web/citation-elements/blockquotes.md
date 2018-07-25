@@ -47,7 +47,8 @@ Example:
 
 Blockquotes can be used with the citation element `<cite>` to share the source, but it is important that there is also visible attribution as well.
 
-```<blockquote cite="http://brainyquote.com/
+```
+<blockquote cite="http://brainyquote.com/
 quotes/arthur_c_clarke_408582">
 Every revolutionary idea seems to 
 evoke three stages of reaction.<br>
