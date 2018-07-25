@@ -57,28 +57,28 @@ Fill in the appropriate attributes/values for creating an image in HTML?
 
 `<??? ???="image.svg" ???="200" ???="200">`
 
-+ img
-+ src
-+ height
-+ width
-- length
-- size
-- tall
-- wide
+* img
+* src
+* height
+* width
+* length
+* size
+* tall
+* wide
 
 ---
 ## Revision
 
-What are the appropriate attributes for setting the image size in HTML?
+What are the appropriate attributes for setting the image size in HTML? (Please provide the two words/answers alphabetically in order.)
 
 `<img src="image.svg" ___="200" ___="200">`
 
-+ height
-+ width
-- length
-- size
-- tall
-- wide
+* height
+* width
+* length
+* size
+* tall
+* wide
 
 ---
 ## Quiz
