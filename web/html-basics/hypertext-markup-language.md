@@ -31,7 +31,7 @@ links:
 ---
 ## Content
 
-Also known as **HTML**, it is the standard markup language used to create websites. HTML[1] describes the structure of a web page semantically, using **tags**. A HTML tag syntax is the name of the HTML element, enclosed by the *less than* and *greater than* signs.
+HyperText Markup Language, more often just referred to as **HTML**, is the standard markup language used to create websites. HTML describes the structure of a web page semantically and uses elements that are made up of **tags**. Tags are easy to recognize as they use *less than* and *greater than* signs. 
 
 To denote the end of most HTML elements, a closing tag is used. It has an extra forward slash before the name of the element:
 ```html
