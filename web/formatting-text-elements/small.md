@@ -24,9 +24,9 @@ links:
 ---
 ## Content
 
-The HTML `<small>` element, often referred to as `fine print`, is used to change the font size of some text to one size smaler(from large to medium or medium to small, etc.), up to the smallest size the browsers allows.
+The HTML `<small>` element, often referred to as `fine print`, is used to change the font size of some text to one size smaller (from large to medium or medium to small, etc.), up to the smallest size the browsers allows.
 
-This element is used for adding short phrases or comments, short blocks of text, a copyright notice or other legal text.
+This element is used for adding short phrases or comments, short blocks of text, a copyright notice, or other legal text.
 
 Example:
 ```
@@ -46,7 +46,7 @@ and our <a href="#">Privacy Policy
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/NBdxNX)-->
 
-By default, the font-size is generally set to .8em smaller than the existing text, which is also often 1 font size smaller. In this example the Test text will display at the same size:
+By default, the font-size is generally set to .8em smaller than the existing text, which is also often 1 font size smaller. In this example the "Test" text will display at the same size:
 
 ```
 <h1><small>Test</small></h1>
