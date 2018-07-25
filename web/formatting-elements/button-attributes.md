@@ -56,7 +56,7 @@ links:
   - `reset`
   - `button`
 
-The `type="submit"` is used to submit the forms data to the server. This value is also the default button type. Meaning, if no other value is set for `type` or if `type` is not present at all.)
+The `type="submit"` is used to submit the forms data to the server. This value is also the default button type if no other value is set for `type`.
 
 The `type="reset"` is used to reset all the values to default in the form the button is associated with.
 
@@ -64,7 +64,7 @@ The `type="button"` has no initial/default behavior. This is used when you want 
 
 ### form
 
-`form` attribute is used to associate a button to a form. The value of the buttons `form` attribute has to be the same as the `id` attribute of the `<form>` element. This allows you to associate any `<button>` element with any `<form>` element within the same document. This means you can also associate a button to a `<form>` element even though the button is not a direct descendant of that form.
+`form` attribute is used to associate a button to a form. The value of the buttons `form` attribute has to be the same as the `id` attribute of the `<form>` element. This allows you to associate a button to a `<form>` element even though the button is not a direct descendant of that form.
 
 ---
 ## Practice
