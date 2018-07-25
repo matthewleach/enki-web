@@ -57,21 +57,33 @@ Example with a `<wbr>` element between `Llanfairpwllgwyngyllgogerychwyrn` and `d
 ---
 ## Practice
 
-Mark the following statements that are true regarding the `<wbr>` element.
+Mark the true statement regarding the `<wbr>` element.
 
-`<p>http://www.enkipro.com/<wbr>path/filename.html</p>`
+```
+<p>
+  http://www.enkipro.com/
+  <wbr>path/filename.html
+</p>
+```
 
-+ `<wbr>` refers to 'line break opprotunity'.
-+ `<wbr>` will wrap only when it needs to.
-- `<wbr>` will force a line break.
-- `<wbr>` works best with a very long sentence. 
+???
+
+* `<wbr>` refers to 'line break opportunity'.
+* `<wbr>` stands for 'Will Break Rows'.
+* `<wbr>` will force a line break.
+* `<wbr>` works best with a very long sentence. 
 
 ---
 ## Revision
 
 Which HTML element represents a line breaking opportunity?
 
-`<p>http://www.enkipro.com/<???>path/filename.html</p>`
+```
+<p>
+  http://www.enkipro.com/
+  <???>path/filename.html
+</p>
+```
 
 * wbr
 * br
@@ -83,14 +95,21 @@ Which HTML element represents a line breaking opportunity?
 ---
 ## Quiz
 
-How much do you know about the `<wbr>` element?
+### How much do you know about the `<wbr>` element?
 
 Mark the following statements that are true regarding the `<wbr>` element.
 
-`<p>http://www.enkipro.com/<wbr>path/filename.html</p>`
+```
+<p>
+  http://www.enkipro.com/
+  <wbr>path/filename.html
+</p>
+```
 
-+ `<wbr>` refers to 'line break opprotunity'.
-+ browser will only add line-break at `<wbr>` when necessary.
-- line break is forced in a long string at the `<wbr>`.
-- `<wbr>` adds additional information within URL paths.
+???
+
+* `<wbr>` refers to 'line break opportunity'.
+* browser will only add line-break at `<wbr>` when necessary.
+* a line break is forced in a long string at the `<wbr>`.
+* `<wbr>` adds additional information within URL paths.
 
