@@ -1,4 +1,4 @@
-# Image Links
+---
 author: matthew-leach
 
 levels:
@@ -16,6 +16,8 @@ links:
   - '[CodePen: Image Link](https://codepen.io/enkidevs/pen/NBpQLw){code}'
   - '[CodePen: Image & Text Link](https://codepen.io/enkidevs/pen/RBpXEG){code}'
 
+---
+# Image Links
 ---
 ## Content
 
