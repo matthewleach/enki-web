@@ -32,7 +32,7 @@ Example:
 ```
 <pre>.enki-highlight {
   color: #F46C43;
- }
+}
 </pre>
 ```
 
