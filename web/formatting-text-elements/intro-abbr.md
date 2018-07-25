@@ -51,8 +51,6 @@ The `<abbr>` element can also be styled with appropriate CSS properties.
 
 <!--[View CodePen](https://codepen.io/enkidevs/pen/rKQEEK)-->
 
-Learn all about `HTML` using Enki
-
 ---
 ## Practice
 
