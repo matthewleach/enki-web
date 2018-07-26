@@ -21,7 +21,7 @@ tags:
 
 An **HTML** web page will display text, images, links, and containers, but has little control over how that content appears.
 
-A **CSS** document will provide the rules for how the text, images, links, and containers should appear - whether it's setting text to bold or italic, setting width, height, and position for an image or container. If `.css` file is opened in a browser, the browser would just display the **CSS** code exactly as it is written in a code editor.
+A **CSS** document will provide the rules for how the text, images, links, and containers should appear - whether it's setting text to bold or italic, setting width, height, and position for an image or container. If a `.css` file is opened in a browser, the browser would just display the **CSS** code exactly as it is written in a code editor.
 
 Let's say we have 2 files:
 ```
