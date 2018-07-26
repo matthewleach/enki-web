@@ -35,13 +35,13 @@ CSS file:
 p { color: green; }
 ```
 
-Loading only the HTML file gives the paragraph mentioned above.
+Loading only the **HTML** file gives the paragraph mentioned above.
 
 Loading both files gives the paragraph mentioned above and colors it green.
 
-However, loading just the CSS file will only show the text `p { color: green; }`.
+However, loading just the **CSS** file will only show the text `p { color: green; }`.
 
-**Note:** XHTML or XML can be used instead of HTML to produce the same result. The only difference between them is the syntax; some have looser syntax while other have stricter.
+**Note:** XHTML or XML can be used instead of **HTML** to produce the same result. The only difference between them is the syntax; some have looser syntax while other have stricter.
 
 ---
 ## Practice
