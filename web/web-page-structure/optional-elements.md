@@ -34,7 +34,7 @@ Some optional elements:
   - `<body>`
   - `<p>`'s closing tag.
 
-Although this isn't a very common practice, Google's HTML styleguide recommends that optional tags be used to help cut down on the file size and improve the scannability of the document. They also recommend that developers not pick and choose selection optional tags, but consistency omit all of them. 
+Although this isn't a very common practice, Google's HTML styleguide recommends that optional tags be used to help cut down on the file size and improve the scannability of the document. They also recommend that developers not pick some optional tags and omit others as consistency is important in avoiding simple mistakes. 
 
 ```
 <!-- Google: Not recommended -->
