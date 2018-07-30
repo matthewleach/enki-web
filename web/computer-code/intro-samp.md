@@ -33,7 +33,7 @@ link:
 The HTML `<samp>`, or the **Sample Output** element, is used to represent a sample output from a computer program.
 
 Example:
-```
+```html
 <p>This is the crazy error I got:</p>
 <p><samp>Keyboard not found<br>
 Press F1 to continue</samp></p>
@@ -54,16 +54,16 @@ By adding CSS styles, the `<samp>` element can be used to present the sample out
 ---
 ## Practice
 
-When using the `<samp>` element, which statements are true?
+When using the `<samp>` element, which statement is not true?
 
 ???
-???
 
-+ represents sample output from a computer program
-+ displayed in the browser's default monospace font
-- produces a block element
-- represents preformatted text
-- represents user input
+* represents user input
+* represents sample output from a computer program
+* displayed in the browser's default monospace font
+* when nested inside `<kbd>`, represents input based on system output.
+* when containing `<kbd>`, represents input echoed by the system.
+
 
 ---
 ## Revision
@@ -83,19 +83,14 @@ What HTML element wraps around sample output text from a computer program to ide
 ---
 ## Quiz
 
-### Do you know which HTML element is best to substitute for "???" within this code:  
+### Do you know which HTML element is best to substitute for "TAG" within this code:  
 
-`<p>`My first selection within Enki was wrong as it displayed the alert `<???>`Oh no... This is a wrong answer`</???>`.`</p>`
+`<p>`My first selection within Enki was wrong as it displayed the alert `<TAG>`Oh no... This is a wrong answer`</TAG>`.`</p>`
 
-???
+TAG = ???
 
 * samp
-* /samp
 * code
-* /code
 * pre
-* /pre
 * out
-* /out
 * output
-* /output

@@ -26,7 +26,7 @@ links:
 
 In HTML, the `<p>` tag defines the start of a paragraph and the `</p>` defines the end.
 
-```
+```html
 <p>
   This is a paragraph.
 </p>

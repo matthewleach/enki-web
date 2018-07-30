@@ -33,7 +33,7 @@ links:
 The HTML `<var>`, or the **Variable** element, is used to represent a name of a variable in either a programming context or a mathematical expression.
 
 Example:
-```
+```html
 <p><var>X</var> = 10<br>
  <var>Y</var> = 2
 <p>As you can see:

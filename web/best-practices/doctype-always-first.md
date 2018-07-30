@@ -30,7 +30,7 @@ This is because the `<!DOCTYPE html>` declaration is used to tell the browser wh
 
 For HTML5 the declaration is typed as:
 
-```
+```html
 <!DOCTYPE html>
 ```
 

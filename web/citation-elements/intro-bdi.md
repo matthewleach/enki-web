@@ -37,7 +37,7 @@ The HTML `<bdi>`, or the **Bidirectional Isolation** element, is used to isolate
 For instance, you can use this on a text that is in English (written left-right), to present it in Arabic (written right-left). The '[user agent](https://developer.mozilla.org/en-US/docs/Glossary/user_agent)' detects that the text should be rendered differently and adjusts accordingly.
 
 If you don't use the `<bdi>` element when working with alphanumeric numbers and Arabic text can you see how the code doesn't display as you would expect?:
-```
+```html
 <p>
   User: ماثيو
   428 points.
@@ -50,7 +50,7 @@ The strange result would be:
 In order to display the numbers properly with, for instance, Arabic, here is how the `<bdi>` element fixes this issue:
 
 Example:
-```
+```html
 <p>
   User:
   <bdi>ماثيو</bdi>
@@ -101,7 +101,7 @@ Which HTML element is used to isolate a span of text that might be formatted in 
 
 Without the `<bdi>` element, what would happen to the Arabic username and the points?
 
-```
+```html
 <p>
   User: <bdi>ماثيو</bdi> 428 points.
 </p>

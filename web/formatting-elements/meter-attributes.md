@@ -103,7 +103,7 @@ Which of these is not a valid `<meter>` element attribute?
 
 If you need to display the value as a percentage, what would you use?
 
-```
+```html
 <meter 
   value="???" 
   min="???" 

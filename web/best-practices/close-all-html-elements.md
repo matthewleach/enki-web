@@ -30,7 +30,7 @@ links:
 HTML elements typically consist of a start and end tag, with content between the tags.
 
 Example:
-```
+```html
 <p>Content goes here</p>
 ```
 Result:
@@ -40,7 +40,7 @@ Result:
 In this example, the `<p>` is the starting tag of a paragraph, the `</p>` is the closing tag, and all the text to be displayed within the paragraph is written between those tags.
 
 In HTML5 there are no strict rules for some closing tags - such as, the closing paragraph tag isn't necessary. As you can see in this example, this paragraph works without any closing `</p>` tag:
-```
+```html
 <p>Content goes here
 ```
 However, adding the closing tags is considered a best practice. Why? Because, even though HTML5 assumes a new tag can start without the previous one being closed, there are older browsers versions that do not support HTML5. These browsers use XHTML or XML, both of which have stricter rules and many developers today are used to adding closing tags for consistency.
@@ -49,7 +49,7 @@ Also, certain tags in HTML5 do not have to have an open tag either, like the `<b
 
 In HTML5, this is still a bit unusual today, but valid and currently encouraged by Google:
 
-```
+```html
 <!-- Not recommended by Google-->
 <!DOCTYPE html>
 <html>

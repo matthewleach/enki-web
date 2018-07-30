@@ -26,7 +26,7 @@ links:
 The HTML `<progress>`, or the **Progress Indicator** element, is used to display a progress bar.
 
 Example:
-```
+```html
 <progress 
   value="25" 
   max="100">
@@ -51,7 +51,7 @@ The `value` attribute is used to specify the amount of work that's been complete
 
 Create a progress element that displays the file size percentage downloaded at a given time. 
 
-```
+```html
 <progress ???="25"
   ???="100">25%
 </progress>

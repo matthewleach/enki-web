@@ -33,7 +33,7 @@ The HTML `<q>`, or the **Inline Quotation** element, is used for indicating shor
 Most browsers display the `<q>` element by placing quotation marks around the content.
 
 Example:
-```
+```html
 <p>
   <cite>
     Carrie Bradshaw
@@ -57,7 +57,7 @@ Quote Result:
 
 Which statements about the `<q>` element is not correct?
 
-```
+```html
 <p>
   <cite>
     Carrie Bradshaw
@@ -83,7 +83,7 @@ Which statements about the `<q>` element is not correct?
 
 What is the most appropriate HTML element to use here?
 
-```
+```html
 <p> As
   <cite>Ron Burgundy</cite>
   shouted

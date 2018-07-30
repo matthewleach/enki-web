@@ -34,7 +34,7 @@ links:
 The HTML `<kbd>`, or the **Keyboard Input** element, is used to represent user input, such as keys on a keyboard, voice commands, or any other textual input.
 
 Example:
-```
+```html
 <p>
   Press the button
   <kbd>Y</kbd> key

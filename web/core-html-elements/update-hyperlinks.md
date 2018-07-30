@@ -32,13 +32,13 @@ Hyperlinks are more commonly called just 'links' in HTML. They are very useful f
 * Hovering over hyperlinks changes the cursor to a pointer.
 
 The hyperlink is defined with the `<a>` tag:
-```
+```html
 <a
   href="URL">This is linked text.
 </a>
 ```
 or
-```
+```html
 <a
   href="https://www.enki.com/">
   Visit Enki's 5-minute workouts!
@@ -61,7 +61,7 @@ By default, links open within the existing tab or window. The linked page can be
  - framename = Opens the link in a named frame.
 
 Opening the link in a new tab is written like this:
-```
+```html
 <a
   href="https://www.enki.com/"
   target="_blank">
@@ -71,14 +71,14 @@ Opening the link in a new tab is written like this:
 
 During the web page development process, if web pages aren't created yet or you don't want to link them yet while still creating the linked object, `placeholder` links can be used. These provide the same interactivity as real links in that they can be clicked, but they do not open any new pages.
 
-```
+```html
 <a href="#">This link is interactive,
  but doesn't work yet.</a>
 ```
 
 It is also common to add links to images. To link images, the same tags are used, but wrap around an image element like this: 
 
-```
+```html
 <a href="https://enki.com/" 
    target="_blank">
   <img src ="logo.svg" 
@@ -93,8 +93,11 @@ In the example above, the image of the Enki Logo will link to this page `https:/
 
 Create linked text that opens a webpage in a new window:
 
-```
-<??? ???="http://enki.com" ???="???">Link to Enki<???>
+```html
+<??? ???="http://enki.com" 
+  ???="???">
+  Link to Enki
+<???>
 ```
 
 * `a`
@@ -111,7 +114,40 @@ Create linked text that opens a webpage in a new window:
 ---
 ## Revision
 
+When will the cursor change to a pointer with the following code?
 
+```html
+<main>
+  <a
+    href="http://www.enkipro.com">
+    Check out Enki
+  </a>
+</main>
+```
+
+When the mouse hovers: ???
+
+How is a placeholder link created, where the link works, but it doesn't open a new page?
+
+`<a href="???">Empty href</a>`
+
+What is the default style of a text link in HTML?
+
+???
+
+* over the text within the `<a>` element.
+* `#`
+* It is blue and underlined.
+* anywhere within the `<main>` element.
+* anywhere within the web page.
+* The cursor doesn’t change in this case
+* `""`
+* `*`
+* `_empty`
+* `_self`
+* `Leave empty`
+* It is blue and bold.
+* There is no visual change to a text link.
 
 
 ---
