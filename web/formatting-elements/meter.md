@@ -26,7 +26,7 @@ links:
 The HTML `<meter>` element is used to represent a scalar value with a known range, or a fractional value. Most commonly used for displaying disk usage, blood pressure, a final grade score(90/100), or relevance of a search query result.
 
 Example grade results:
-```
+```html
 <p>
   Physics test result:
   <meter min="0" max="100"
@@ -51,7 +51,7 @@ The `<meter>` element has 7 element-specific attributes:
   7. `value`
 
 Example of element-specific attributes:
-```
+```html
 <meter 
   value="0.5" 
   min="0" 
@@ -67,7 +67,7 @@ Example of element-specific attributes:
 
 Create a meter element that displays data between 0 and 20 with a value of 15. 
 
-```
+```html
 <meter 
   ???="15" 
   ???="0" 
@@ -105,7 +105,7 @@ What HTML element would be a good example of displaying the disk usage of your c
 
 If you need to display the value as a percentage, what would you use?
 
-```
+```html
 <meter 
   value="???" 
   min="???" 
@@ -118,8 +118,3 @@ If you need to display the value as a percentage, what would you use?
 * 50%, 0, 100
 * 0.5, 0, 100
 * 50%, 0, 1
-
-
-
-
-0e7e12
