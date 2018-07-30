@@ -27,7 +27,7 @@ The HTML `<hr>`, or the **Thematic Break** element, is used to create a thematic
 **Note:** In HTML4.01 the `<hr>` element used to represent a horizontal rule, hence the name `hr`, nevertheless that was changed in HTML5 and now it represents a thematic break.
 
 Thematic Break Example:
-```
+```html
 <h3>Enki App</h3>
 <p>
   Enki provides daily workouts.
@@ -49,7 +49,7 @@ Thematic Break Result:
 Furthermore, the `<hr>` element provides important semantic meaning, such as a change of scenery or a shift of topic. It should not be solely used to add a horizontal line (even though that is possible). To add a horizontal line you should use the appropriate CSS property.
 
 By default, the `<hr>` element is represented with the following CSS properties:
-```  
+```css  
 hr { 
     display: block;
     margin-top: 0.5em;
