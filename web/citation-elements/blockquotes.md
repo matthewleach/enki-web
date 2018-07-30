@@ -31,7 +31,7 @@ links:
 The HTML `<blockquote>` element or the **Block Quotation** element is used to enclose text which represents an extended or long quotation. This element is displayed as a block element and usually has a 1em top/bottom margin added by default, as well as a left/right indentation of 40 pixels. Of course, this is all editable with CSS styling.
 
 Example:
-```
+```html
 <blockquote>
  Every revolutionary idea seems to
  evoke three stages of reaction.<br>
@@ -47,7 +47,7 @@ Example:
 
 Blockquotes can be used with the citation element `<cite>` to share the source, but it is important that there is also visible attribution as well.
 
-```
+```html
 <blockquote cite="http://brainyquote.com/
 quotes/arthur_c_clarke_408582">
 Every revolutionary idea seems to 
@@ -69,7 +69,7 @@ quotes/arthur_c_clarke_408582">
 
 If you wish to add a short quote to your web page or document, you should use the `<q>` or the **Quotation element**.
 Example:
-```
+```html
 <q>I have a dream!</q>
 - Martin Luther King
 ```
@@ -83,7 +83,7 @@ Example:
 
 Which statement about the `<blockquote>` element is correct?
 
-```
+```html
 <blockquote>
   The best thing about a boolean
   is even if you are wrong,
