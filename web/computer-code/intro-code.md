@@ -33,7 +33,7 @@ links:
 The HTML `<code>` element is used to display a fragment of a computer code.
 
 Example:
-```
+```html
 <p>
   The function
   <code>
@@ -90,7 +90,7 @@ What HTML element is used to visually highlight the difference of the paragraph 
 ### How much do you know about the `<code>` element?
 
 What will be the effect of wrapping this text in the _code_ element?
-```
+```html
 <code>
   var x = 5;
   y = x == 10
