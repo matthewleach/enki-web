@@ -32,7 +32,7 @@ The HTML heading elements are very important when determining the style and stru
 There are 6 headings in HTML5 ranging from `<h1>` to `<h6>`. `<h1>` being the largest in size by default and most important by search engines. `<h6>` being the smallest and least important of the text headings within a web page.
 
 Example:
-```
+```html
 <h1>Heading 1</h1>
 <h2>Heading 2</h2>
 <h3>Heading 3</h3>
