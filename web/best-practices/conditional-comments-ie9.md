@@ -30,14 +30,14 @@ Internet Explorer (IE) is a web browser specifically for Windows. Older versions
 Conditional comments are conditional statements used only by Internet Explorer versions 5 through 9. Since these versions of IE are the only ones that support this code, it is easy to use this technique to target them with special needs as all other browsers will view this code as comments and completely ignore it.
 
 Any code within this condition will be completely hidden by older versions of IE, referred to as "downlevel hidden":
-```
+```html
 <!--[if expression]>
   HTML goes here
 <![endif]-->
 ```
 
 Any code within this condition will only run in older versions of IE, referred to as "downlevel revealed":
-```
+```html
 <![if expression]>
   HTML goes here
 <![endif]>
@@ -45,7 +45,7 @@ Any code within this condition will only run in older versions of IE, referred t
 
 If certain code is meant to display on non-IE browsers and on some versions of IE, then both conditional comments and HTML comments can be written in a unique way like this:
 
-```
+```html
 <!--[if expression]><!-->
   HTML goes here
 <!--<![endif]-->
