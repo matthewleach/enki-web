@@ -74,7 +74,7 @@ What content is best to style when using the `<code>` element?
 
 What HTML element is used to visually highlight the difference of the paragraph elements in an appropriate way?
 
-`<p>`The `<???>``<p>``</p>``</???>` tags are used in HTML to create paragraphs.`</p>`
+`<p>`The `<???>` `<p>` `</p>` `</???>` tags are used in HTML to create paragraphs.`</p>`
 
 ???
 
